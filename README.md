@@ -1,4 +1,4 @@
-# Hello World in C#
+# Hello World in C Sharp
 
 ## Install
 - Install Docker
